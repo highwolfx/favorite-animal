@@ -3,3 +3,14 @@ body {
     margin: 10%;
     margin-top: auto;
 }
+
+p {
+    font-family: "Verdana", Geneva, sans-serif; !important;
+    white-space: pre-line;
+}
+
+#Baby-Penguins {
+    width: 75%;
+    display: block;
+    margin: auto;
+}
