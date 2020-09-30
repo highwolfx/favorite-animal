@@ -1,2 +1,2 @@
-# whatever-you-want
+# favorite-animal
 Week 2 Activity
